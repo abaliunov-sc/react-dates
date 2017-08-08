@@ -1,3 +1,5 @@
+## [v0.3.0-beta.10](Tue, 08 Aug 2017 08:46:05 GMT)
+
 ## [v0.3.0-beta.9](Tue, 08 Aug 2017 08:39:22 GMT)
  - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, 7579f2b)
  - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, 8f1ef63)
