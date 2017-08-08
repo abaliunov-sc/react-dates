@@ -1,6 +1,6 @@
 {
   "name": "react-dates-sc",
-  "version": "0.3.0-beta.14",
+  "version": "0.3.0-beta.15",
   "description": "Start write new project with no effort.",
   "keywords": [
     "react",
@@ -37,7 +37,6 @@
     "react-dom": ">= 0.14.0 || >= 15.0.0"
   },
   "devDependencies": {
-    "@opuscapita/npm-scripts": "2.0.0-beta.2",
     "@opuscapita/react-showroom-client": "1.2.2",
     "@opuscapita/react-showroom-server": "1.2.0",
     "autoprefixer": "6.7.6",
@@ -84,6 +83,7 @@
     "write-file-webpack-plugin": "4.1.0"
   },
   "dependencies": {
+    "@albalyu/npm-scripts": "^2.0.2",
     "@opuscapita/react-autocompletes": "1.0.8",
     "lodash": "4.17.4",
     "moment": "2.18.1",
