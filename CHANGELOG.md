@@ -1,3 +1,7 @@
+## [v0.3.0-beta.9](Tue, 08 Aug 2017 08:39:22 GMT)
+ - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, 7579f2b)
+ - Update README.md (Kirill Volkovich <kvolkovich-sc@users.noreply.github.com>, 8f1ef63)
+
 ## [v0.3.0-beta.7](https://github.com/OpusCapita/react-dates/compare/v0.3.0-beta.6...v0.3.0-beta.7) (Fri, 21 Jul 2017 15:17:54 GMT)
  - Merge pull request #22 from OpusCapita/bugfix/#21
     
