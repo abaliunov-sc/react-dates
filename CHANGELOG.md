@@ -1,3 +1,5 @@
+## [v0.3.0-beta.56](Wed, 09 Aug 2017 10:24:57 GMT)
+
 ## [v0.3.0-beta.55](Wed, 09 Aug 2017 10:23:45 GMT)
  - Change package.json (baliunov <baliunov@scand.com>, ac3fd9b)
 
