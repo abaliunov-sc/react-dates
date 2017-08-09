@@ -18,7 +18,7 @@
     "start": "node www/index",
     "test": "mocha src/**/*.spec.js --compilers js:babel-register --require config/mocha-setup.js --require ignore-styles",
     "npm-build": "rimraf lib && webpack --config webpack.production.config.js",
-    "npm-publish": "update-changelog -- --all && npm run npm-build && npm-publish",
+    "npm-publish": "npm run npm-build && npm-publish",
     "publish-release": "npm run npm-publish -- --release"
   },
   "main": "lib/index.js",
