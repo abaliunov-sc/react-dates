@@ -1,6 +1,6 @@
 {
   "name": "react-dates-sc",
-  "version": "0.3.0-beta.43",
+  "version": "0.3.0-beta.44",
   "description": "Start write new project with no effort.",
   "keywords": [
     "react",
@@ -83,7 +83,7 @@
     "write-file-webpack-plugin": "4.1.0"
   },
   "dependencies": {
-    "@albalyu/npm-scripts": "^2.0.30",
+    "@albalyu/npm-scripts": "^2.0.31",
     "@opuscapita/react-autocompletes": "1.0.8",
     "lodash": "4.17.4",
     "moment": "2.18.1",
